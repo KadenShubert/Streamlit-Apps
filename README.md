@@ -14,3 +14,5 @@ The repository contains the following files:
 
 app.py: Contains a small app performing ML on the Iris dataset and allowing user input
 Requirements.txt: file contains the required packages for this app to run properly
+
+### Try the app [here](https://app-apps-2zd2w2bpl68ocys4jqoxbj.streamlit.app/)
